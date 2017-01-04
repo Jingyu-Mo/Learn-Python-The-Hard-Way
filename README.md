@@ -1,5 +1,5 @@
 # 笨办法学 Python
-## [The WOOP Goal-Setting](https://characterlab.org/goal-setting#)
+## The WOOP Goal-Setting
 > **Wish:** A meaningful, challenging, and feasible goal
 
 > **Outcome:** The best result or feeling from accomplishing your wish
